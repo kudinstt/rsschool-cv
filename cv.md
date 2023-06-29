@@ -1,8 +1,8 @@
 # Stanislav Kudin
 ## ___Contacts___ :notebook:
 * *Location:* Republic Of Belarus, Mogilev region, Bobruisk city.
-* *GitHub:* __https://github.com/kudinstt__
-* *Email:* ___kudinstt@gmail.com___ 
+* *GitHub:* https://github.com/kudinstt
+* *Email:* kudinstt@gmail.com
 * *Phone:* +375 (44) 528-80-26
 ********* 
 ## ___About Me___ :boy:
