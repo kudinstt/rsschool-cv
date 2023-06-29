@@ -6,7 +6,7 @@
 * *Phone:* +375 (44) 528-80-26
 ********* 
 ## ___About Me___ :boy:
-### I am 22 years old. I want to learn the world of programming and strive for something new and interesting for me. That is why I am here.
+I am 22 years old. I want to learn the world of programming and strive for something new and interesting for me. That is why I am here.
 *********
 ## ___My skills___ :scroll:
 I have no programming skills :confused:
