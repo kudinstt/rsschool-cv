@@ -21,5 +21,5 @@ I have no experience in this field
 Secondary education
 *******
 ## ___Languages___ :pushpin:
-* English - __Elementary__
-* Russian - __Professional__
+* English - Elementary
+* Russian - Professional
